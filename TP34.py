@@ -1,5 +1,9 @@
 
 class Noeud:
+
+    """ ahahhahahahahahhahahahaha
+    docstrings za3ma vive bethoux
+    vive farouk, helene rousselle"""
     def __init__(self, valeur, enfants=None):
         self.valeur = valeur
         self.enfants = enfants if enfants is not None else []
